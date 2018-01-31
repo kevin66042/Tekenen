@@ -18,6 +18,7 @@ public class House extends Applet {
         g.drawLine(20,100,70,20);
         g.drawLine(70,20,120,100);
         //deur
+        //De 3x drawline per ongeluk als eerste gedaan
         //g.drawLine(70,200,70,160);
         //g.drawLine(70,160,95,160);
         //g.drawLine(95,160,95,200);
