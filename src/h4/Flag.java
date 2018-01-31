@@ -1,7 +1,5 @@
 package h4;
 
-import com.sun.javafx.scene.control.skin.ColorPalette;
-
 import java.awt.*;
 import java.applet.*;
 
